@@ -13,7 +13,7 @@
   border-style: solid;
   border-width: 5px;
   width: 800px;
-  height: 140px;
+  height: 180px;
   margin: auto;
 }
 nav{
@@ -23,7 +23,7 @@ nav{
   border-radius: 0 0 20px 20px;
   border-width: 5px;
   width: 800px;
-  height: 50px;
+  height: 70px;
   margin: auto;
 }
 .primero{
@@ -32,7 +32,7 @@ nav{
   border-style: solid;
   border-width: 5px;
   background-color: #12260D;
-  width: 350px;
+  width: 370px;
   height: 585px;
   float: right;
   margin: auto;
@@ -41,24 +41,37 @@ nav{
 
 .segundo{
   background-color: yellow;
-  border-color: white;
+  border-color: yellow;
+  border-style: solid;
+  border-radius: 20px 20px 0 0;
+  border-width: 5px;
+  width: 390px;
+  height: 275px;
+  margin:auto;
+
+}
+
+.tercero{
+  background-color: yellow;
+  border-color: yellow;
   border-style: solid;
   border-radius: 0 0 20px 20px;
-  border-width: 10px;
-  width: 400px;
-  height: 270px;
-  float: left;
+  border-width: 5px;
+  width: 390px;
+  height: 275px;
+  margin:auto;
+
 
 }
 
 .quinto{
   border-radius: 20px 20px 0 0;
-  background-color: yellow;
+  background-color: white;
   border-color: white;
   border-style: solid;
-  border-width: 10px;
+  border-width: 5px;
   width: 400px;
-  height: 310px;
+  height: 580px;
   float: left;
 
 }
@@ -93,7 +106,7 @@ footer{
   border-style: solid;
   border-radius: 20px 20px 0 0;
   border-width: 5px;
-  width: 340px;
+  width: 360px;
   height: 45px;
   margin: auto;
 }
@@ -127,8 +140,8 @@ footer{
   border-style: solid;
   border-radius: 20px 20px 0 0;
   border-width: 5px;
-  width: 390px;
-  height: 40px;
+  width: 380px;
+  height: 45px;
   margin: auto;
   float: left;
 }
@@ -146,7 +159,8 @@ footer{
 
 .t1{
   text-align: center;
-  width: 130px;
+  width: 200px;
+  height: 30px;
 
 }
 
@@ -184,8 +198,8 @@ text-align: center;
 
 
 .btn1{
-  height: 25px;
-  width: 120px;
+  height: 35px;
+  width: 140px;
   border-color: #00081C;
   background-color: orange;
   border-radius: 5px;
@@ -213,7 +227,7 @@ text-align: center;
 
 .img1{
   width: 150px;
-  height: 180px;
+  height: 160px;
   border-radius: 20px;
   border-color: black;
   border-style: solid;
@@ -244,10 +258,11 @@ color: white;
   border-radius: 20px 20px 0 0;
   border-style: solid;
   border-width: 5px;
-  width: 390px;
+  width: 300px;
   height: 100px;
-  float: left;
-  text-align: center;
+  float: right;
+
+
 
 }
 
@@ -260,11 +275,12 @@ color: white;
   width: 390px;
   height: 100px;
   float: right;
+
 }
 
 .img{
-  width: 250px;
-  height: 130px;
+  width: 350px;
+  height: 175px;
 
 
 }
@@ -278,7 +294,7 @@ text-align: center;
 #td1{
   border-right: white 1px solid;
   width: 400px;
-  height: 40px;
+  height: 25px;
   color: white;
 
 }
@@ -286,26 +302,26 @@ text-align: center;
 #td2{
   border-right: white 1px solid;
   width: 500px;
-  height: 40px;
+  height: 25px;
   color: white;
 }
 
 #td3{
 border-right: white 1px solid;
 width: 500px;
-height: 40px;
+height: 25px;
 color: white;
 }
 
 #td4{
   width: 500px;
-  height: 40px;
+  height: 25px;
   color: white;
 }
 
 .td1{
   height: 70px;
-  width: 70px;
+  width: 110px;
   color: white;
 }
 
@@ -317,11 +333,10 @@ color: white;
 .uno1{
   border-color: yellow;
   background-color: yellow;
-  border-radius: 20px 20px 0 0;
   border-style: solid;
   border-width: 5px;
-  width: 190px;
-  height: 100px;
+  width: 175px;
+  height: 200px;
   float: right;
   margin: auto;
 
@@ -330,12 +345,12 @@ color: white;
 .dos2{
   border-color: yellow;
   background-color: yellow;
-  border-radius: 20px 20px 0 0;
+
   border-style: solid;
   border-width: 5px;
-  width: 190px;
-  height: 100px;
-  float: left;
+  width: 180px;
+  height: 200px;
+  float: right;
   margin: auto;
 
 }
